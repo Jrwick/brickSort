@@ -1,8 +1,8 @@
-# brickSort
+# BrickSort
 
 ## Overview
 
-brickSort is a standalone web application for browsing, analysing, and organising LEGO sets.
+BrickSort is a standalone web application for browsing, analysing, and organising LEGO sets.
 
 The application focuses on advanced sorting, dimensional comparison, and personal collection management, enabling users to explore and organise sets beyond simple price-based views.
 
